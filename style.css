@@ -331,7 +331,7 @@ main {
     display: flex;
     width: 70% !important;
     justify-content: space-between;
-    margin: 50px 0;
+    margin: 40px 0;
 }
 
 .clock-border {
